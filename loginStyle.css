@@ -1,0 +1,31 @@
+body {
+    background-color: #17202A;
+    background-image: url("/images/andy-holmes-DO3BRhe4qEo-unsplash.jpg");
+    background-size: cover;
+}
+
+div {
+    width: 300px;
+    padding: 20px;
+    margin: 0px auto;
+    background: whitesmoke;
+    color: #17202A;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.insert {
+    border: 1px #17202A solid;
+    padding: 10px 120px 10px 10px;
+    margin: 5px;
+}
+
+.checkbox {
+    color: #17202A;
+    margin-bottom: 20px;
+}
+
+button {
+    border: 1px #17202A solid;
+    padding: 10px 120px 10px 120px;
+    margin: 5px;
+}

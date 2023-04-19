@@ -1,0 +1,40 @@
+body {
+    background-color: #17202A;
+    background-image: url("/images/andy-holmes-DO3BRhe4qEo-unsplash.jpg");
+    background-size: cover;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h3 {
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p {
+    text-align: justify;
+    color:#FFFFFF;
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 50px 100px;
+}
+
+div {
+    margin: 10px 100px 10px 100px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a {
+    color: white;
+}

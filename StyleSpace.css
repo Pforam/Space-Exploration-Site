@@ -1,0 +1,68 @@
+body {
+    background-color: #17202A;
+    background-image: url("/images/andy-holmes-DO3BRhe4qEo-unsplash.jpg");
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.para {
+    color: whitesmoke;
+    text-align: justify;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    margin: 0px 100px;
+}
+
+h2 {
+    color: whitesmoke;
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 60px;
+    margin-left: 100px;
+    margin-right: 100px;
+}   
+
+.explore {
+    color: white;
+    text-align: left;
+    font-size: medium;
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 70px;
+}
+
+a {
+    color: whitesmoke;
+}
+
+.subHead {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+.btn {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 4px 8px 4px 8px;
+    border: 10px solid white;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 30px;
+}
